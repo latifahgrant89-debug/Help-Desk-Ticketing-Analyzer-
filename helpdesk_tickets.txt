@@ -1,0 +1,60 @@
+TicketID: 1001 | Category: Network | Priority: High | Status: Open | Issue: Cannot connect to office WiFi
+TicketID: 1002 | Category: Software | Priority: Medium | Status: Closed | Issue: Microsoft Word keeps crashing
+TicketID: 1003 | Category: Account | Priority: High | Status: Open | Issue: Employee locked out of account
+TicketID: 1004 | Category: Hardware | Priority: Low | Status: Closed | Issue: Keyboard needs replacement
+TicketID: 1005 | Category: Network | Priority: High | Status: Open | Issue: Network connection keeps dropping
+TicketID: 1006 | Category: Software | Priority: Low | Status: Closed | Issue: Request to install approved software
+TicketID: 1007 | Category: Account | Priority: Medium | Status: Open | Issue: Password reset request
+TicketID: 1008 | Category: Hardware | Priority: High | Status: Open | Issue: Laptop will not turn on
+TicketID: 1009 | Category: Network | Priority: Medium | Status: Closed | Issue: Slow internet connection
+TicketID: 1010 | Category: Software | Priority: High | Status: Open | Issue: Business application will not launch
+TicketID: 1011 | Category: Account | Priority: Low | Status: Closed | Issue: Request for access to shared folder
+TicketID: 1012 | Category: Hardware | Priority: Medium | Status: Open | Issue: External monitor is not working
+TicketID: 1013 | Category: Network | Priority: High | Status: Closed | Issue: VPN connection failure
+TicketID: 1014 | Category: Software | Priority: Medium | Status: Open | Issue: Application update failed
+TicketID: 1015 | Category: Account | Priority: High | Status: Open | Issue: Suspicious account login reported
+TicketID: 1016 | Category: Hardware | Priority: Low | Status: Closed | Issue: Mouse is not responding
+TicketID: 1017 | Category: Network | Priority: Medium | Status: Open | Issue: Cannot access shared network drive
+TicketID: 1018 | Category: Software | Priority: High | Status: Closed | Issue: Antivirus software will not update
+TicketID: 1019 | Category: Account | Priority: Medium | Status: Open | Issue: Multi-factor authentication problem
+TicketID: 1020 | Category: Hardware | Priority: High | Status: Open | Issue: Laptop overheating
+TicketID: 1021 | Category: Network | Priority: High | Status: Open | Issue: Cannot connect to company VPN
+TicketID: 1022 | Category: Software | Priority: Medium | Status: Closed | Issue: Browser freezes during use
+TicketID: 1023 | Category: Account | Priority: High | Status: Open | Issue: Employee reports unexpected password change
+TicketID: 1024 | Category: Hardware | Priority: Medium | Status: Closed | Issue: Printer is not responding
+TicketID: 1025 | Category: Network | Priority: Low | Status: Closed | Issue: Request to connect a new device to WiFi
+TicketID: 1026 | Category: Software | Priority: High | Status: Open | Issue: Security application detected an error
+TicketID: 1027 | Category: Account | Priority: Medium | Status: Closed | Issue: Employee cannot access email
+TicketID: 1028 | Category: Hardware | Priority: High | Status: Open | Issue: Desktop computer will not boot
+TicketID: 1029 | Category: Network | Priority: Medium | Status: Open | Issue: Video meetings keep disconnecting
+TicketID: 1030 | Category: Software | Priority: Low | Status: Closed | Issue: Request to update approved software
+TicketID: 1031 | Category: Account | Priority: High | Status: Closed | Issue: Former employee account requires review
+TicketID: 1032 | Category: Hardware | Priority: Low | Status: Open | Issue: Headphones are not working
+TicketID: 1033 | Category: Network | Priority: High | Status: Open | Issue: Multiple employees cannot access the network
+TicketID: 1034 | Category: Software | Priority: Medium | Status: Open | Issue: Spreadsheet application displays an error
+TicketID: 1035 | Category: Account | Priority: Low | Status: Closed | Issue: Request to update profile information
+TicketID: 1036 | Category: Hardware | Priority: Medium | Status: Open | Issue: Laptop battery is not charging
+TicketID: 1037 | Category: Network | Priority: Medium | Status: Closed | Issue: Shared drive connection is slow
+TicketID: 1038 | Category: Software | Priority: High | Status: Open | Issue: Endpoint protection service is not running
+TicketID: 1039 | Category: Account | Priority: High | Status: Open | Issue: Unexpected multi-factor authentication requests
+TicketID: 1040 | Category: Hardware | Priority: Low | Status: Closed | Issue: Request for a replacement mouse
+TicketID: 1041 | Category: Network | Priority: High | Status: Closed | Issue: Office network outage has been resolved
+TicketID: 1042 | Category: Software | Priority: Medium | Status: Closed | Issue: Email application is not syncing
+TicketID: 1043 | Category: Account | Priority: Medium | Status: Open | Issue: User cannot reset password
+TicketID: 1044 | Category: Hardware | Priority: High | Status: Open | Issue: Server room monitor displays no signal
+TicketID: 1045 | Category: Network | Priority: Low | Status: Closed | Issue: Request for network access information
+TicketID: 1046 | Category: Software | Priority: Low | Status: Open | Issue: Request to install an approved browser extension
+TicketID: 1047 | Category: Account | Priority: High | Status: Open | Issue: Employee reports possible phishing email
+TicketID: 1048 | Category: Hardware | Priority: Medium | Status: Closed | Issue: Webcam is not detected
+TicketID: 1049 | Category: Network | Priority: Medium | Status: Open | Issue: DNS lookup is failing
+TicketID: 1050 | Category: Software | Priority: High | Status: Closed | Issue: Critical business application restored
+TicketID: 1051 | Category: Account | Priority: Low | Status: Open | Issue: Request to update account display name
+TicketID: 1052 | Category: Hardware | Priority: High | Status: Open | Issue: Workstation repeatedly shuts down
+TicketID: 1053 | Category: Network | Priority: High | Status: Open | Issue: Firewall is blocking an approved business service
+TicketID: 1054 | Category: Software | Priority: Medium | Status: Closed | Issue: PDF reader fails to open documents
+TicketID: 1055 | Category: Account | Priority: Medium | Status: Closed | Issue: Shared account permissions need updating
+TicketID: 1056 | Category: Hardware | Priority: Low | Status: Closed | Issue: Desk phone has a damaged cable
+TicketID: 1057 | Category: Network | Priority: Medium | Status: Open | Issue: Wireless connection is unstable
+TicketID: 1058 | Category: Software | Priority: High | Status: Open | Issue: Operating system update failed
+TicketID: 1059 | Category: Account | Priority: High | Status: Closed | Issue: Suspicious login investigation completed
+TicketID: 1060 | Category: Hardware | Priority: Medium | Status: Open | Issue: External hard drive is not detected
