@@ -18,9 +18,11 @@ Python 3 — Used to process and analyze ticket information.
 Text files — Used to store the sample help desk tickets.
 
 Project Structure
+
 it-helpdesk-ticket-analyzer/
 ├── main.py
 └── helpdesk_tickets.txt
+
 main.py contains the Python code used to analyze the tickets.
 helpdesk_tickets.txt contains the sample ticket records processed by the program.
 
